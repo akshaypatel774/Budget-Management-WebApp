@@ -1,0 +1,53 @@
+header {
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+body {
+    background-color: grey;
+    color: #213040;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    margin-left: 2rem;
+}
+
+a:hover {
+    color: cyan;
+}
+
+input {
+    max-width: 200px;
+}
+
+.table {
+    background-color: red;
+}
+.custom-button {
+    background-color: #213040;
+    color: white;
+}
+
+.custom-button:hover {
+    background-color: #6184ab;
+    border-color: black;
+}
+
+.custom-dropdown {
+    background-color: #213040;
+    color: white;
+}
+
+.custom-dropdown:active,
+.custom-dropdown:focus {
+    background-color: #213040;
+    color: white;
+}
+
+.custom-dropdown:hover {
+    background-color: #213040;
+    color: white;
+}
