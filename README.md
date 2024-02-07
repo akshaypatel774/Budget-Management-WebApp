@@ -7,7 +7,7 @@ The Budget Management WebApp stands as a powerful and intuitive financial manage
 ## Getting Started:
 1. Clone the repository:
 ```
-git clone [repository-url]
+git clone https://github.com/akshaypatel774/Budget-Management-WebApp.git
 ```
 2. Install all the required dependencies:
 ```
